@@ -1,2 +1,2 @@
 # skillEarn
-this is my first repo for github
+this is my first repo for github.
